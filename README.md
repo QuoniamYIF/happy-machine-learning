@@ -5,4 +5,4 @@ be yourself,not somebody else,keep hacking!
 
 the new start
 
-Some days all you need is one good thought strong in your minf
+Some days all you need is one good thought strong in your minf(1/28)
