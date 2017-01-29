@@ -3,7 +3,6 @@ from sklearn import linear_model
 import matplotlib.pyplot as plt
 
 #read data
-datafram = pd.read_fwf('brain_body.txt')
 x_values = datafram[['Brain']]
 y_values = datafram[['Body']]
 
