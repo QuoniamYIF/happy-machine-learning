@@ -7,7 +7,7 @@ function g = sigmoid(z)
 % Instructions: Compute the sigmoid of each value of z (z can be a matrix,
 %               vector or scalar).
 
-% g = (1 * ones(size(z)) + (e * ones(size(z))) .^ (-1 * ones(size(z)))) .^ (-1 * ones(size(z)))
+g = 1 ./ ( 1 + exp(-z))
 % =============================================================
 
 end
